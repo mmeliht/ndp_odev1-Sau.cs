@@ -1,0 +1,48 @@
+Ahmet Uçak 14578241 :
+ödev=85
+vize=100
+final= 90
+Ayşe Mutlu 45222145 :
+ödev=45
+vize=10 
+final= 84
+Enes Demir 74485332:
+ödev=100
+vize=100 
+final= 100
+Yusuf İyigün 74138552:
+ödev=60
+vize=15
+final=96
+Melih Tüfekcioğlu 12356987:
+ödev=50
+vize=75
+final=100
+Berfin Taştan 98745612:
+ödev=99
+vize=60
+final=50
+Fatih Turan 95762493:
+ödev=80
+vize=100
+final=50
+Ömer Erkurt 64953157:
+ödev=60
+vize=65
+final=15
+Nur Okutan 12369547:
+ödev=10
+vize=98
+final=03
+Eren Uğurlu 964853312:
+ödev=100
+vize=65
+final=17
+Emirhan Öksüz 56173948:
+ödev=41
+vize=79
+final=56
+İlkay Orbay 13467985:
+ödev=100
+vize=100
+final=100
